@@ -1,0 +1,8 @@
+2023-04-30 12:05:09,193 ERROR this is my error log
+2023-04-30 12:05:37,533 INFO this is my info log
+2023-04-30 12:05:37,535 WARNING this is my warning log
+2023-04-30 12:05:37,535 DEBUG this is my debug log
+2023-04-30 12:05:37,536 ERROR this is my error log
+2023-04-30 12:06:36,531 INFO this is my info log
+2023-04-30 12:06:36,532 WARNING this is my warning log
+2023-04-30 12:06:36,533 ERROR this is my error log

@@ -1,0 +1,83 @@
+2023-04-30 12:13:37,707 DEBUG pickle loaded: C:\Users\RAKSHANDA\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2023-04-30 12:13:37,749 DEBUG pickle loaded: C:\Users\RAKSHANDA\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-04-30 12:13:39,248 DEBUG diff parser start
+2023-04-30 12:13:39,249 DEBUG line_lengths old: 8; new: 8
+2023-04-30 12:13:39,250 DEBUG -> code[equal] old[1:7] new[1:7]
+2023-04-30 12:13:39,251 DEBUG copy old[1:7] new[1:2]
+2023-04-30 12:13:39,253 DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2023-04-30 12:13:39,253 DEBUG -> code[replace] old[8:8] new[8:8]
+2023-04-30 12:13:39,253 DEBUG diff parser end
+2023-04-30 12:13:42,722 DEBUG diff parser start
+2023-04-30 12:13:42,723 DEBUG line_lengths old: 8; new: 8
+2023-04-30 12:13:42,723 DEBUG -> code[equal] old[1:7] new[1:7]
+2023-04-30 12:13:42,724 DEBUG copy old[1:7] new[1:2]
+2023-04-30 12:13:42,725 DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2023-04-30 12:13:42,725 DEBUG -> code[replace] old[8:8] new[8:8]
+2023-04-30 12:13:42,726 DEBUG diff parser end
+2023-04-30 12:13:42,740 DEBUG pickle loaded: C:\Users\RAKSHANDA\anaconda3\lib\logging\__init__.py
+2023-04-30 12:13:43,744 DEBUG diff parser start
+2023-04-30 12:13:43,745 DEBUG line_lengths old: 8; new: 8
+2023-04-30 12:13:43,745 DEBUG -> code[equal] old[1:7] new[1:7]
+2023-04-30 12:13:43,746 DEBUG copy old[1:7] new[1:2]
+2023-04-30 12:13:43,748 DEBUG parse_part from 3 to 8 (to 7 in part parser)
+2023-04-30 12:13:43,748 DEBUG -> code[replace] old[8:8] new[8:8]
+2023-04-30 12:13:43,749 DEBUG diff parser end
+2023-04-30 12:14:42,675 DEBUG diff parser start
+2023-04-30 12:14:42,677 DEBUG line_lengths old: 8; new: 1
+2023-04-30 12:14:42,677 DEBUG -> code[replace] old[1:8] new[1:1]
+2023-04-30 12:14:42,677 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-04-30 12:14:42,677 DEBUG diff parser end
+2023-04-30 12:14:46,279 INFO This is a start of my code and I am trying to enter 5 and 0
+2023-04-30 12:14:46,280 ERROR error has happend 
+2023-04-30 12:14:46,280 ERROR Exception occureddivision by zero
+Traceback (most recent call last):
+  File "C:\Users\RAKSHA~1\AppData\Local\Temp/ipykernel_15900/525991761.py", line 4, in dividebyzero
+    div = a/b
+ZeroDivisionError: division by zero
+2023-04-30 12:16:40,439 INFO This is a start of my code and I am trying to enter 5 and 4
+2023-04-30 12:16:40,440 INFO executed successfully
+2023-04-30 12:18:01,420 INFO This is a start of my code and I am trying to enter 5 and 0
+2023-04-30 12:18:01,421 ERROR error has happend 
+2023-04-30 12:18:01,422 ERROR Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\RAKSHA~1\AppData\Local\Temp/ipykernel_11684/3532254614.py", line 4, in dividebyzero
+    div = a/b
+ZeroDivisionError: division by zero
+2023-04-30 12:57:36,092 DEBUG diff parser start
+2023-04-30 12:57:36,092 DEBUG line_lengths old: 1; new: 1
+2023-04-30 12:57:36,092 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-04-30 12:57:36,093 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-04-30 12:57:36,094 DEBUG diff parser end
+2023-04-30 12:57:52,067 DEBUG diff parser start
+2023-04-30 12:57:52,067 DEBUG line_lengths old: 1; new: 2
+2023-04-30 12:57:52,068 DEBUG -> code[replace] old[1:1] new[1:2]
+2023-04-30 12:57:52,068 DEBUG parse_part from 1 to 2 (to 1 in part parser)
+2023-04-30 12:57:52,068 DEBUG diff parser end
+2023-04-30 12:57:52,125 DEBUG pickle loaded: C:\Users\RAKSHANDA\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2023-04-30 12:57:52,157 DEBUG pickle loaded: C:\Users\RAKSHANDA\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-04-30 12:57:53,668 DEBUG diff parser start
+2023-04-30 12:57:53,669 DEBUG line_lengths old: 2; new: 2
+2023-04-30 12:57:53,669 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-04-30 12:57:53,669 DEBUG copy old[1:1] new[1:1]
+2023-04-30 12:57:53,669 DEBUG -> code[replace] old[2:2] new[2:2]
+2023-04-30 12:57:53,669 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2023-04-30 12:57:53,669 DEBUG diff parser end
+2023-04-30 12:57:54,217 DEBUG diff parser start
+2023-04-30 12:57:54,217 DEBUG line_lengths old: 2; new: 2
+2023-04-30 12:57:54,217 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-04-30 12:57:54,218 DEBUG copy old[1:1] new[1:1]
+2023-04-30 12:57:54,218 DEBUG -> code[replace] old[2:2] new[2:2]
+2023-04-30 12:57:54,218 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2023-04-30 12:57:54,219 DEBUG diff parser end
+2023-04-30 12:57:57,090 DEBUG diff parser start
+2023-04-30 12:57:57,090 DEBUG line_lengths old: 2; new: 2
+2023-04-30 12:57:57,091 DEBUG -> code[equal] old[1:1] new[1:1]
+2023-04-30 12:57:57,091 DEBUG copy old[1:1] new[1:1]
+2023-04-30 12:57:57,091 DEBUG -> code[replace] old[2:2] new[2:2]
+2023-04-30 12:57:57,091 DEBUG parse_part from 2 to 2 (to 1 in part parser)
+2023-04-30 12:57:57,092 DEBUG diff parser end
+2023-04-30 12:58:05,762 DEBUG diff parser start
+2023-04-30 12:58:05,762 DEBUG line_lengths old: 2; new: 1
+2023-04-30 12:58:05,762 DEBUG -> code[replace] old[1:2] new[1:1]
+2023-04-30 12:58:05,763 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-04-30 12:58:05,763 DEBUG diff parser end

@@ -1,0 +1,15 @@
+2023-04-30 11:55:16,047 this is my info log
+2023-04-30 11:55:16,048 this is my warning log
+2023-04-30 11:55:16,049 this is my debug log
+2023-04-30 11:57:54,493 INFO this is my info log
+2023-04-30 11:57:54,494 WARNING this is my warning log
+2023-04-30 11:57:54,494 DEBUG this is my debug log
+2023-04-30 12:02:53,084 ERROR this is my error log
+2023-04-30 12:03:41,691 INFO this is my info log
+2023-04-30 12:03:41,692 WARNING this is my warning log
+2023-04-30 12:03:41,692 DEBUG this is my debug log
+2023-04-30 12:03:41,693 ERROR this is my error log
+2023-04-30 12:04:08,726 INFO this is my info log
+2023-04-30 12:04:08,727 WARNING this is my warning log
+2023-04-30 12:04:08,727 DEBUG this is my debug log
+2023-04-30 12:04:08,727 ERROR this is my error log

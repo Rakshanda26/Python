@@ -1,0 +1,101 @@
+2023-05-01 12:38:12,132,INFO,Creating file Instance variable
+2023-05-01 12:38:14,728,INFO,Creating file Instance variable
+2023-05-01 12:38:17,893,DEBUG,diff parser start
+2023-05-01 12:38:17,894,DEBUG,line_lengths old: 26; new: 1
+2023-05-01 12:38:17,895,DEBUG,-> code[replace] old[1:26] new[1:1]
+2023-05-01 12:38:17,895,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:38:17,895,DEBUG,diff parser end
+2023-05-01 12:38:21,587,DEBUG,diff parser start
+2023-05-01 12:38:21,589,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:38:21,589,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:38:21,590,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:38:21,590,DEBUG,diff parser end
+2023-05-01 12:38:29,441,INFO,Creating file Instance variable
+2023-05-01 12:38:34,904,DEBUG,diff parser start
+2023-05-01 12:38:34,906,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:38:34,906,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:38:34,906,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:38:34,906,DEBUG,diff parser end
+2023-05-01 12:38:36,557,DEBUG,diff parser start
+2023-05-01 12:38:36,557,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:38:36,557,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:38:36,558,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:38:36,558,DEBUG,diff parser end
+2023-05-01 12:38:40,016,INFO,Executing read method
+2023-05-01 12:38:46,211,DEBUG,diff parser start
+2023-05-01 12:38:46,211,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:38:46,211,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:38:46,213,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:38:46,213,DEBUG,diff parser end
+2023-05-01 12:43:20,966,INFO,Creating file Instance variable
+2023-05-01 12:43:21,512,INFO,Executing read method
+2023-05-01 12:43:47,214,INFO,Executing write method
+2023-05-01 12:43:50,716,INFO,Executing read method
+2023-05-01 12:43:59,632,INFO,Creating file Instance variable
+2023-05-01 12:44:00,030,INFO,Executing read method
+2023-05-01 12:44:00,609,INFO,Executing write method
+2023-05-01 12:48:07,905,INFO,Creating file Instance variable
+2023-05-01 12:48:20,236,INFO,Creating file Instance variable
+2023-05-01 12:48:58,604,DEBUG,diff parser start
+2023-05-01 12:48:58,604,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:48:58,604,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:48:58,605,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:48:58,605,DEBUG,diff parser end
+2023-05-01 12:49:03,394,INFO,Creating file Instance variable
+2023-05-01 12:49:04,081,INFO,Creating file Instance variable
+2023-05-01 12:49:10,044,DEBUG,diff parser start
+2023-05-01 12:49:10,044,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:49:10,044,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:49:10,045,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:49:10,045,DEBUG,diff parser end
+2023-05-01 12:49:12,462,INFO,Executing read method
+2023-05-01 12:49:24,740,INFO,Executing write method
+2023-05-01 12:49:27,092,INFO,Executing write method
+2023-05-01 12:51:06,720,INFO,Creating file Instance variable
+2023-05-01 12:51:08,369,INFO,Executing write method
+2023-05-01 12:51:15,390,DEBUG,diff parser start
+2023-05-01 12:51:15,391,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:51:15,391,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:51:15,392,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:51:15,392,DEBUG,diff parser end
+2023-05-01 12:51:17,298,DEBUG,diff parser start
+2023-05-01 12:51:17,299,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:51:17,299,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:51:17,300,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:51:17,300,DEBUG,diff parser end
+2023-05-01 12:51:18,073,DEBUG,diff parser start
+2023-05-01 12:51:18,073,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:51:18,074,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:51:18,074,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:51:18,074,DEBUG,diff parser end
+2023-05-01 12:51:19,174,INFO,Executing read method
+2023-05-01 12:59:48,445,DEBUG,diff parser start
+2023-05-01 12:59:48,445,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 12:59:48,445,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 12:59:48,445,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 12:59:48,445,DEBUG,diff parser end
+2023-05-01 13:05:30,172,DEBUG,diff parser start
+2023-05-01 13:05:30,172,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 13:05:30,172,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 13:05:30,172,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 13:05:30,172,DEBUG,diff parser end
+2023-05-01 13:22:26,260,DEBUG,diff parser start
+2023-05-01 13:22:26,260,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 13:22:26,260,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 13:22:26,260,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 13:22:26,260,DEBUG,diff parser end
+2023-05-01 13:22:28,655,DEBUG,diff parser start
+2023-05-01 13:22:28,655,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 13:22:28,655,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 13:22:28,655,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 13:22:28,655,DEBUG,diff parser end
+2023-05-01 13:22:33,544,DEBUG,diff parser start
+2023-05-01 13:22:33,544,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 13:22:33,544,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 13:22:33,544,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 13:22:33,544,DEBUG,diff parser end
+2023-05-01 13:22:37,665,DEBUG,diff parser start
+2023-05-01 13:22:37,665,DEBUG,line_lengths old: 1; new: 1
+2023-05-01 13:22:37,665,DEBUG,-> code[replace] old[1:1] new[1:1]
+2023-05-01 13:22:37,665,DEBUG,parse_part from 1 to 1 (to 0 in part parser)
+2023-05-01 13:22:37,665,DEBUG,diff parser end
